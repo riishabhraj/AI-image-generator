@@ -1,4 +1,4 @@
-# AIImageGenerator
+# AI-Image-Generator
 
 This repository contains a React Native Expo project that implements OpenAI API to transform a description given by the user in an Image.
 
@@ -12,13 +12,13 @@ Expo
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/sandrotola/AIImageGenerator.git
+git clone https://github.com/riishabhraj/AI-image-generator.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd AIImageGenerator
+cd AI-image-generator
 ```
 
 Install the project dependencies:
@@ -30,6 +30,3 @@ Start the expo development server:
 ```bash
 expo start
 ```
-# Contact
-
-For any inquiries or questions, feel free to reach out to me at sandro.tola@overapp.it
